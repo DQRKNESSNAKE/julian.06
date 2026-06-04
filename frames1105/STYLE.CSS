@@ -1,0 +1,62 @@
+DIV{
+padding: 3PX;
+background-color: rgb(255, 255, 255);
+border-radius: 10PX;
+box-shadow: 5PX 5PX 5PX gray;
+display: flex;
+flex-direction: row;
+
+
+}
+H1{
+    color: rgb(0, 0, 0);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align:center;
+}
+
+img{
+    width: 100PX;
+}
+.IMAGEN{
+    text-align: center;
+    background-color: brown;
+    margin-left: 10%;
+    margin-right: 10%;
+}
+.cajadetitulo{
+    text-align: center;
+    background-color: rgb(251, 6, 6);
+    margin-left: 12%;
+    margin-right: 150px;
+
+}
+
+.cajaparrafo{
+    text-align: center;
+    background-color: antiquewhite;
+    margin-left: 30%;
+    margin: 35%;
+}
+
+.menu{
+    background-color: blueviolet;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.menu a{
+    text-decoration: none;
+    color: black;
+    display:  block;
+    margin: 5px;
+}
+
+.menu ul{
+    list-style: none;
+}
+.menu li{
+    position: relative;
+}
+
+.menu ul li a:hover{
+    background-color: azure;
+}
